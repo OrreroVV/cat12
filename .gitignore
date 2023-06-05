@@ -7,5 +7,7 @@
 *.rdb
 *.log
 *.xml
+*.cptk
+*.h5
 
 .idea

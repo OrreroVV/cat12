@@ -1,6 +1,10 @@
 # 猫12分类
-使用$resNet18$ + 迁移学习模型
+## resNet18模型 + 迁移学习
 
-使用$VGG$模型对比
+![](https://hzh-1313930608.cos.ap-guangzhou.myqcloud.com/data/image/1685982700362.jpg)
+
+## VGG模型
+
+![](https://hzh-1313930608.cos.ap-guangzhou.myqcloud.com/data/image/1685982808229.jpg)
 
 [数据集](https://hzh-1313930608.cos.ap-guangzhou.myqcloud.com/data/dataset_cat12/data.rar)

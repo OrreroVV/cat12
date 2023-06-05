@@ -1,4 +1,11 @@
+### dataset ###
+/data/
+
+### python ###
 **/__pycache__
+
 *.rdb
 *.log
 *.xml
+
+.idea

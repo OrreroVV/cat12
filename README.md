@@ -8,4 +8,4 @@
 
 ![](https://hzh-1313930608.cos.ap-guangzhou.myqcloud.com/data/image/1685982808229.jpg)
 
-[数据集](https://hzh-1313930608.cos.ap-guangzhou.myqcloud.com/data/dataset_cat12/data.rar)
+[数据集](https://hzh-1313930608.cos.accelerate.myqcloud.com/data/dataset_cat12/data.rar)
